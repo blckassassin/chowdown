@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Easy pancakes
+title: Sunday Morning Pancakes
 image: easy-pancakes.jpg
 imagecredit: https://www.bbcgoodfood.com/recipes/easy-pancakes
 tags: breakfast, cooking, dessert
