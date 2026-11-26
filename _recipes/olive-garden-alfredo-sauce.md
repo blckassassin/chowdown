@@ -16,7 +16,7 @@ ingredients:
 - 1 lb. Fettuccine
 - Parsley (to garnish)
 directions:
-- Boil the fettuccine according to package instructions while the water heats up.
+- Boil the fettuccine according to package instructions.
 - Melt the butter in a large saucepan over medium heat and add the garlic, cooking for one minute.
 - Whisk in the flour and cook for 1 minute, stirring continuously.
 - Add the heavy cream in splashes while stirring continuously, then add the milk in the same manner.
