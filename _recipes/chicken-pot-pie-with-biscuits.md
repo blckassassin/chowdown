@@ -23,15 +23,9 @@ ingredients:
 - 1 cup frozen peas
 directions:
 - '### For the Biscuits'
-- Prepare buttermilk biscuits but do not bake them yet.
-- Store the formed biscuits on a plate in the fridge while preparing the pot pie filling.
-- Add the formed biscuits to the top of the pot pie when ready to bake.
-- Bake at 425° for 15-18 minutes.
-- 'Optional: Brush with butter and bake at 450° for up to 5 more minutes to brown the top more.'
-- 'You may also use Cheddar Bay Biscuit recipe: Combine dry ingredients in advance, mix wet ingredients and form dough when ready to bake, and add to the top of the skillet.'
-- Bake Cheddar Bay Biscuits at 450° for 12-15 minutes.
-- Refrigerated biscuits may also be used; prepare them just before baking and refer to package for time and temperature.
-- You may also bake the biscuits on a baking sheet while preparing the filling, but baking them on top adds extra comfort.
+- '- [ ] Preheat oven to 425 for homemade buttermilk biscuits or according to package for refrigerated biscuits'
+- '- [ ] Prepare buttermilk biscuits but do not bake yet, store formed biscuits on a plate in the fridge while preparing the filling'
+- '- [ ] Refrigerated biscuits may also be used, prepare them just before baking and refer to package instructions for time and temperature'
 - '### For the Chicken Pot Pie'
 - Season each side of the chicken with salt and pepper.
 - Add chicken to a medium saucepan with chicken broth and bring to a very gentle bubble with the lid cracked for 15 minutes until cooked through.
