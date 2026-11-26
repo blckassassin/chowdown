@@ -20,7 +20,7 @@ ingredients:
 - ½ cup half and half
 - 1 chicken bouillon cube
 - 1 teaspoon low sodium soy sauce (can sub Worcestershire sauce)
-- 1 cup frozen peas
+- 1 cup frozen peas or 1 1/2 cups frozen green beans
 directions:
 - '### For the Biscuits'
 - Preheat oven to 425 for homemade buttermilk biscuits or according to package for refrigerated biscuits.
@@ -42,7 +42,7 @@ directions:
 - Add the shredded chicken and stir to combine.
 - If the gravy is not thick enough, bring to a gentle boil and reduce to a simmer.
 - 'Optional: Add any of the remaining 1/3 chicken broth if desired.'
-- Add the frozen peas and stir to combine and heat through.
+- Add the frozen peas or green beans and stir to combine and heat through.
 - Remove from heat.
 - Transfer filling to a lightly greased 8 x 8-inch baking dish if your skillet isn’t oven safe.
 - Add the biscuits to the top and bake per biscuit recipe instructions until golden and set in the middle.
