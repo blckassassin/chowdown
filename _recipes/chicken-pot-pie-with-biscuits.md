@@ -10,9 +10,9 @@ ingredients:
 - Salt/pepper (to taste)
 - 3 cups chicken broth
 - 4 Tablespoons butter
-- ½ cup onions (finely diced)
-- ½ cup celery (finely diced)
-- ½ cup carrots (finely diced)
+- 1 cup onions (finely diced)
+- 1 cup celery (finely diced)
+- 1 cup carrots (finely diced)
 - 2 cloves garlic (minced)
 - '½ teaspoon EACH: Onion Powder, Dry Thyme, Dry Rosemary'
 - ¼ teaspoon ground sage
@@ -23,9 +23,9 @@ ingredients:
 - 1 cup frozen peas
 directions:
 - '### For the Biscuits'
-- '- [ ] Preheat oven to 425 for homemade buttermilk biscuits or according to package for refrigerated biscuits'
-- '- [ ] Prepare buttermilk biscuits but do not bake yet, store formed biscuits on a plate in the fridge while preparing the filling'
-- '- [ ] Refrigerated biscuits may also be used, prepare them just before baking and refer to package instructions for time and temperature'
+- Preheat oven to 425 for homemade buttermilk biscuits or according to package for refrigerated biscuits.
+- Prepare buttermilk biscuits but do not bake yet, store formed biscuits on a plate in the fridge while preparing the filling.
+- Refrigerated biscuits may also be used, prepare them just before baking and refer to package instructions for time and temperature.
 - '### For the Chicken Pot Pie'
 - Season each side of the chicken with salt and pepper.
 - Add chicken to a medium saucepan with chicken broth and bring to a very gentle bubble with the lid cracked for 15 minutes until cooked through.
